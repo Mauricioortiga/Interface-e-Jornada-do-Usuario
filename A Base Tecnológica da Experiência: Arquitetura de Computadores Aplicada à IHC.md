@@ -73,6 +73,8 @@ Como Dispositivos Moldam Comportamentos?
 
 🔹 Smartwatch durante corrida: interface mínima, com comandos rápidos, foco em controle de reprodução e feedback visual claro, sem distrações.
 
+---
+
 🔨 **Arquiteturas Cliente-Servidor e Design Distribuído**
 
 A maioria dos aplicativos modernos depende da comunicação entre dispositivos (como celular e computador) e servidores que processam dados. Essa divisão impacta diretamente o design das interfaces.
@@ -81,5 +83,23 @@ Aplicações distribuídas exigem que designers considerem conexão instável, t
 
 Esses problemas são, fundamentalmente, questões de design de interface que precisam ser antecipadas e tratadas.
 
+**Design para estados de conexão: **Suas interfaces devem comunicar claramente três estados:
+
+🟢 Conectado
+
+🟡 Conexão lenta
+
+🔴 Desconectado
+
+**Otimização de transferência de dados:** A quantidade de dados enviados entre cliente e servidor afeta diretamente a velocidade percebida.
+
+🔔 Técnicas como carregamento progressivo, compressão de imagens e uso de APIs que enviam só o necessário são decisões tanto de design quanto técnicas.
+
+🎈 Barreto(2018), informa que a percepção de desempenho muitas vezes importa mais que a velocidade real — usuários aceitam melhor a espera quando entendem o que está acontecendo e veem progresso visível de carregamento.
+
+---
+**Design Offline-First: Uma Mudança de Paradigma:**
+
+A abordagem “offline-first” assume que a conexão pode falhar e trata conectividade como uma melhoria. Isso torna os aplicativos mais confiáveis, especialmente em locais com internet instável ou para usuários em movimento. PWAs são um bom exemplo dessa ideia.
 
 
