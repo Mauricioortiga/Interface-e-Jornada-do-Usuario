@@ -1,8 +1,6 @@
 💻 *Um designer de interfaces precisa entender como os computadores funcionam, 
 pois experiências realmente boas só acontecem quando a tecnologia consegue suportá-las.*
 
----
-
 ⚙️ *Entender como processador, memória e entrada/saída trabalham juntos ajuda você a tomar decisões melhores, melhorando não só o visual, mas também o desempenho, a rapidez e a satisfação do usuário.*
 
 ---
