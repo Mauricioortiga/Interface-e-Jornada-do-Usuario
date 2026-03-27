@@ -4,11 +4,11 @@
 
 🎯 Principais Objetivos:
 
-🚀 Entender como a estrutura e o funcionamento dos computadores impactam diretamente a experiência do usuário
+🚀 Entender como a estrutura e o funcionamento dos computadores impactam diretamente a experiência do usuário.
 
-🧠 Aplicar, na prática, os princípios do design centrado no usuário em projetos reais
+🧠 Aplicar, na prática, os princípios do design centrado no usuário em projetos reais.
 
-👤 Criar perfis de usuários (personas) bem definidos e mapear toda a sua jornada
+👤 Criar perfis de usuários (personas) bem definidos e mapear toda a sua jornada.
 
 🛠️ Utilizar ferramentas profissionais para analisar o contexto e mapear a experiência do usuário.
 
