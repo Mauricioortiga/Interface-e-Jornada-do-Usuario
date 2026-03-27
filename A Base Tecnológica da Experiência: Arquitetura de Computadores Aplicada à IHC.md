@@ -83,7 +83,7 @@ Aplicações distribuídas exigem que designers considerem conexão instável, t
 
 Esses problemas são, fundamentalmente, questões de design de interface que precisam ser antecipadas e tratadas.
 
-**Design para estados de conexão: **Suas interfaces devem comunicar claramente três estados:
+**Design para estados de conexão:** Suas interfaces devem comunicar claramente três estados:
 
 🟢 Conectado
 
