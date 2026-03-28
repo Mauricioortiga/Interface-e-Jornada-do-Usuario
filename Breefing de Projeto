@@ -1,3 +1,7 @@
+
+
+
+
 - PARTE 2 - 
 
 Levantamento Quantitativo:
@@ -8,7 +12,7 @@ Importante lembrar que a cada hora de evento, o consumo tende a aumentar,
 se torna necessário calcular o tempo total do evento vs quantidade de alimentos e bebidas para não 
 sofrer de escassez de suprimentos.
 
-Dimensionamento de Comida:
+Quantidade de Comida:
 
 1. Salgados: Temos que em média, a cada hora, uma pessoa pode consumir até 3 unidades.
 Caso haja jantar, podemos reduzir para até 2 unidades.
