@@ -1,5 +1,3 @@
-📌 Matéria: Interface e Jornada do Usuario
-
 📂 Este repositório aborda a importância da qualidade da Interação Humano-Computador, com foco em simplificar tarefas complexas e torná-las fáceis de utilizar. Tem como objetivo projetar interfaces que garantam soluções intuitivas, eficientes e alinhadas às necessidades do usuário.
 
 🎯 Principais Objetivos:
