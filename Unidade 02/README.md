@@ -1,4 +1,5 @@
-🎯 O Objetivo Central
+Nesta unidade 02, iremos aprender:
+
 1. Transformar conceitos abstratos em experiências tangíveis, desde rascunhos iniciais até simulações interativas sofisticadas.
 
 2. Testar e ajustar interfaces com usuários reais através de testes de conceito estruturados, antes de escrever uma única linha de código.
