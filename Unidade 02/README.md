@@ -1,4 +1,4 @@
-Nesta unidade 02, iremos aprender:
+**Nesta unidade 02, iremos aprender:**
 
 1. Transformar conceitos abstratos em experiências tangíveis, desde rascunhos iniciais até simulações interativas sofisticadas.
 
@@ -10,7 +10,7 @@ Nesta unidade 02, iremos aprender:
 
 5. Garante o desenvolvimento de interfaces que verdadeiramente atendam às necessidades reais dos usuários.
 
-Objetivos:
+**Objetivos:**
 
 Compreender os diferentes tipos de protótipos e seus níveis de fidelidade, sabendo quando aplicar cada abordagem;
 
