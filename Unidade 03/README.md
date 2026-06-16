@@ -1,4 +1,4 @@
-**Nesta unidade 03, iremos aprender:
+**Nesta unidade 03, iremos aprender:**
 
 **Princípios de Design Visual:** Como estruturar hierarquias visuais, usar tipografias, cores e o espaço vazio para guiar o olhar do usuário e criar interfaces memoráveis.
 
