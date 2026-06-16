@@ -12,12 +12,12 @@
 
 **Objetivos:**
 
-Aplicar princípios de design visual para criar interfaces harmoniosas e eficazes;
+Aplicar princípios de design visual para criar interfaces harmoniosas e eficazes.
 
-Implementar práticas de acessibilidade baseadas nas diretrizes WCAG;
+Implementar práticas de acessibilidade baseadas nas diretrizes WCAG.
 
-Projetar layouts responsivos que se adaptam a diferentes dispositivos;
+Projetar layouts responsivos que se adaptam a diferentes dispositivos.
 
-Incorporar diversidade e inclusão em suas decisões de design;
+Incorporar diversidade e inclusão em suas decisões de design.
 
 Refletir criticamente sobre as implicações éticas do seu trabalho como designer de interfaces.
